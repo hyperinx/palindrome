@@ -1,0 +1,2 @@
+# palindrome
+for studying
